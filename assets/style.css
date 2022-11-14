@@ -1,0 +1,35 @@
+.intro {
+    display: flex;
+    flex-direction: row;
+}
+
+body {
+
+    background-image: url('https://images.unsplash.com/photo-1536532184021-da5392b55da1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMHNreXxlbnwwfHwwfHw%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-size: 100%;
+    overflow: hidden;
+}
+
+h1 {
+    color: white;
+    position: relative;
+    top: 250px;
+    left: 650px;
+}
+h2{
+    position: relative;
+    color: white;
+    left: 18px;
+}
+li{
+    font-size: 18px;
+    color: white;
+    position: relative;
+    padding-right: 20px;
+    left: 1280px;
+    top: -100px;
+}
