@@ -1,0 +1,42 @@
+.messenger {
+    position: relative;
+    background-color: lightskyblue;
+    width: 300px;
+    height: 400px;
+    padding-left: 80px;
+    padding-top: 170px;
+    left: 550px;
+    top:50px;
+    border-radius: 15px;
+}
+
+.name {
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.message {
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.t1 {
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.btn {
+    position: relative;
+    top: 155px;
+    right: 130px;
+    height: 30px;
+    border-radius: 6px;
+    background-color: rgb(22, 101, 150);
+    color: white;
+}
+.btn:hover{
+    background-color: lightskyblue;
+}
